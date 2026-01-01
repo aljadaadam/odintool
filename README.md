@@ -4,7 +4,7 @@
 
 يوفّر 4 مسارات رئيسية:
 
-1) **Partner API** متوافق مع DHru/GsmHub عبر `GET/POST /api/index.php`.
+1) **Partner API** متوافق مع api عبر `GET/POST /api/index.php`.
 2) **Admin API** لإدارة الشركاء/الطلبات/الزوار (محمية بـ `ADMIN_TOKEN`).
 3) **Visitor Wallet** صفحات HTML + JSON (`/buy`/`/check`/`/profile`) لتفعيل مباشر عند توفر الرصيد.
 4) **Webhook** HMAC لإنشاء ترخيص من أنظمة خارجية (`POST /webhook/purchase`).
