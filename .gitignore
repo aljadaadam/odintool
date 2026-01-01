@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# env secrets
+.env
+
+# local database
+/data/*.sqlite
+/data/*.db
+
+# build output (optional)
+# dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
